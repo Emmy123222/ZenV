@@ -2,5 +2,8 @@
   "name": "CryptoVault",
   "description": "A secure crypto wallet with vault features",
   "url": "https://lively-salamander-041d52.netlify.app/",
-  "iconUrl": "https://cryptovault.netlify.app/icon.png"
+  "iconUrl": "https://cryptovault.netlify.app/icon.png",
+  "bridge": {
+    "url": "https://bridge.tonapi.io/bridge"
+  }
 }
